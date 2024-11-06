@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning and Computer Vision
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on awesome open source project!
-- 🛰️ Give my website a look on https://sites.google.com/view/pedrocg/home
+- 🛰️ Give my website a look www.pedrocg42.com
 - 📫 You can reach me using my email pedrocorglez@gmail.com
 
 <!---
